@@ -11,7 +11,6 @@ Goal: Determine the best salary for the next Syracuse head football coach. This 
 6. Crate and Fit a regression model
     -with salary as the response and relevent predictor (need more than one predictor)
 
-  ~Extra~
 7. Create a geographic visual that best depicts the conference median salary
 8. Fit a hiearchical model based on conference. 
 9. Use additional material from link to recreate the code for the basic regression model with a training and test 
